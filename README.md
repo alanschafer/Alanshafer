@@ -94,3 +94,26 @@ Unfortunately, one logistical issue with a template theme like Academic Pages th
 [![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
 [![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
 </div>
+# Alan Schäfer
+
+*Writer of psychological, theological, and fictional explorations.  
+Producer of stylized works that blur identity, belief, and narrative.*
+
+---
+
+## 📚 Selected Works
+
+- [Deconstruction](https://alanschafer.github.io/Deconstruction/)  
+  *A disassembly of belief, perception, and identity.*
+
+- [Shorts](https://alanschafer.github.io/Shorts/)  
+  *Fragments and fleeting visions — brief entries into the wreckage.*
+
+- [The Believing Brain](https://alanschafer.github.io/TheBelievingBrain-/)  
+  *A study in how conviction forms, breaks, and re-forms.*
+
+- [Third Path](https://alanschafer.github.io/thirdpath/)  
+  *An alternative to binaries — beyond destruction or submission.*
+
+- [Interview](https://alanschafer.github.io/Interview/)  
+  *A personal dialogue on doubt, inquiry, and reconstruction.*
